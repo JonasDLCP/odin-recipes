@@ -1,2 +1,2 @@
 # odin-recipes
-este sera mi primer proyecto
+//este sera mi primer proyecto
